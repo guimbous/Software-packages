@@ -4,11 +4,7 @@
         <title>
             Wastenot
         </title>
-        <style>
-            *{background-color: #44b29d;
-            text-align: center;
-            }
-          </style>
+        <link rel="stylesheet" href="StyleSheet_WA">
     </head>
     <body>
         <h2>B E R L I N</h2>
